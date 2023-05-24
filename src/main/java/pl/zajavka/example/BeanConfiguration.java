@@ -5,5 +5,5 @@ import org.springframework.context.annotation.Configuration;
 
 @Configuration
 @ComponentScan(basePackageClasses = Marker.class)
-public class BeanConfigurationService {
+public class BeanConfiguration {
 }
